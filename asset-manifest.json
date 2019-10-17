@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/slim-hmidi/monsters-rolodex/static/css/main.10c3f28b.chunk.css",
+    "main.js": "/slim-hmidi/monsters-rolodex/static/js/main.475b2909.chunk.js",
+    "main.js.map": "/slim-hmidi/monsters-rolodex/static/js/main.475b2909.chunk.js.map",
+    "runtime-main.js": "/slim-hmidi/monsters-rolodex/static/js/runtime-main.ae85782e.js",
+    "runtime-main.js.map": "/slim-hmidi/monsters-rolodex/static/js/runtime-main.ae85782e.js.map",
+    "static/js/2.7397039c.chunk.js": "/slim-hmidi/monsters-rolodex/static/js/2.7397039c.chunk.js",
+    "static/js/2.7397039c.chunk.js.map": "/slim-hmidi/monsters-rolodex/static/js/2.7397039c.chunk.js.map",
+    "index.html": "/slim-hmidi/monsters-rolodex/index.html",
+    "precache-manifest.a2609a933b9f326a937e21facadd05a4.js": "/slim-hmidi/monsters-rolodex/precache-manifest.a2609a933b9f326a937e21facadd05a4.js",
+    "service-worker.js": "/slim-hmidi/monsters-rolodex/service-worker.js",
+    "static/css/main.10c3f28b.chunk.css.map": "/slim-hmidi/monsters-rolodex/static/css/main.10c3f28b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae85782e.js",
+    "static/js/2.7397039c.chunk.js",
+    "static/css/main.10c3f28b.chunk.css",
+    "static/js/main.475b2909.chunk.js"
+  ]
+}
